@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated images 
+images/
+*.png
+*.jpg
+*.jpeg
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NAO / local SDK stuff 
+pynaoqi/
+aldeb-*
+inao*
