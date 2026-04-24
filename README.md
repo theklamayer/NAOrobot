@@ -1,6 +1,6 @@
 # NAO Human Greeter – University Team Project
 
-This repository is a showcase version of a robotics project from TU Berlin (AgentCompition: RoboCup, 2023).
+This repository is a showcase version of a robotics project from TU Berlin (Agent Compition: RoboCup, 2023).
 
 The original repository was developed collaboratively and is private. This public version is intended to document the project structure, technologies used, and implementation approach for portfolio/recruiting purposes.
 
